@@ -54,12 +54,12 @@ you'll find me with a camera in hand, capturing emotions and untold stories in s
 ##
 
 ###  📊 Equity Research/Fundamental analysis 🔍 [Github](https://github.com/ganji-rajesh/equity_research/tree/main)
-A growing collection of **fundamental analysis of listed Indian companies**, powered by LLMs.
-- 📁 Covers economic, industry, and company-level analysis
-- 📄 Sources: Annual reports (statutory sections), MoneyControl financials
-- 🤖 Tools: Gemini models + custom [MD&A summarizer](https://managementdiscussionsummary-ganjirajesh.streamlit.app/)
-- 📅 Updated monthly
-**Skills used:** `fundamental analysis` `llms` `pdf parsing` `llm api keys`
+> A growing collection of **fundamental analysis of listed Indian companies**, powered by LLMs.
+  - 📁 Covers economic, industry, and company-level analysis
+  - 📄 Sources: Annual reports (statutory sections), MoneyControl financials
+  - 🤖 Tools: Gemini models + custom [MD&A summarizer](https://managementdiscussionsummary-ganjirajesh.streamlit.app/)
+  - 📅 Updated monthly
+> **Skills used:** `fundamental analysis` `llms` `pdf parsing` `llm api keys`
 
 ### 🏦 Credit Risk Modelling
 **[GitHub](https://github.com/ganji-rajesh/credit_risk_modelling)** &nbsp;|&nbsp; **[Streamlit](https://ganjirajesh-creditriskmodelling.streamlit.app/)**
