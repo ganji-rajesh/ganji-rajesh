@@ -53,7 +53,8 @@ you'll find me with a camera in hand, capturing emotions and untold stories in s
 ## 🗂️ Projects
 ##
 
-###  📊 Equity Research/Fundamental analysis 🔍 [Github](https://github.com/ganji-rajesh/equity_research/tree/main)
+###  📊 Equity Research/Fundamental analysis 🔍
+**[Github](https://github.com/ganji-rajesh/equity_research/tree/main)**
 > A growing collection of **fundamental analysis of listed Indian companies**, powered by LLMs.
   - 📁 Covers economic, industry, and company-level analysis
   - 📄 Sources: Annual reports (statutory sections), MoneyControl financials
