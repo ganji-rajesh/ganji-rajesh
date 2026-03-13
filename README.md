@@ -8,8 +8,8 @@
 
 ## Hi, I'm Ganji Rajesh 👋
 
-📍 Hyderabad, India &nbsp;|&nbsp; 💻 Data Scientist & Data Analyst &nbsp;|&nbsp; <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/13799d00-2fc7-4be0-9ac5-c8a5f417b19b" />
- [![LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/ganjirajesh/))
+📍 Hyderabad, India &nbsp;|&nbsp; 💻 Data Scientist & Data Analyst &nbsp;|&nbsp; <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/13799d00-2fc7-4be0-9ac5-c8a5f417b19b" />
+ [![LinkedIn](https://www.linkedin.com/in/ganjirajesh/)
 
 A maths nerd turned Data Analyst — I live and breathe data. Turning raw numbers into
 meaningful insights is what gets me out of bed every morning.
@@ -107,6 +107,30 @@ you'll find me with a camera in hand, capturing emotions and untold stories in s
 **Skills used:** `Python` `LLM` `NLP` `YouTube API`
 
 ---
+### 🏦 Customer Churn Prediction in Bank using ANN
+**[GitHub](https://github.com/ganji-rajesh/projects/tree/main/cust_churn_prediction_in_bank_using_ANN)**
+> Predicts whether a bank customer is likely to churn using an Artificial Neural Network trained on customer attributes such as  geography, gender, age, balance, tenure, and salary.
+**Skills used:** `Python` `Pandas` `NumPy` `TensorFlow` `Keras` `ANN` `Data Preprocessing` `Feature Engineering`
+---
+### Handwritten Digit Recognition using PCA and Classification Models
+**[GitHub](https://github.com/ganji-rajesh/projects/blob/main/Handwrittern_digits_recognition_PCA_classification_models.ipynb)**
+> Built a machine learning pipeline to recognize handwritten digits by combining Principal Component Analysis (PCA) for dimensionality reduction with classification models for prediction. The project focuses on reducing high-dimensional image features, improving training efficiency, and comparing model performance for accurate digit classification.
+>
+Skills used: Python Pandas NumPy Matplotlib Seaborn Scikit-Learn PCA Classification
+---
+
+### 🏦 Loan Default Prediction
+**[GitHub](https://github.com/ganji-rajesh/portfolio/blob/main/projects_in_2023/loan_default_using_classification_models.ipynb)**
+> Predicts loan approval outcomes using a 614-record dataset with applicant demographics and financial features. Includes EDA, missing value treatment, and comparison of multiple classification models — Logistic Regression, KNN, Decision Tree, and Random Forest — achieving ~78% accuracy.
+
+**Skills used:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-Learn` `Classification Models` `EDA`
+
+
+### Visualization projects
+**[GitHub]([https://github.com/ganji-rajesh/chatbot](https://github.com/ganji-rajesh/portfolio/tree/main/projects_in_2023/Data_Visualization))**
+> Visualization projects
+> 
+**Skills used:** `Power BI`
 
 ### 🤖 Movie Booking Chatbot
 **[GitHub](https://github.com/ganji-rajesh/chatbot)**
