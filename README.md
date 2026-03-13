@@ -4,7 +4,7 @@
 <!--              MY INTRO CIRCLE            -->
 <!-- ════════════════════════════════════════ -->
 
-<img src="https://avatars.githubusercontent.com/u/99713423?v=4" width="150" style="border-radius: 50%; border: 3px solid #f0a500;" />
+
 
 ## Hi, I'm Ganji Rajesh 👋
 
@@ -24,12 +24,11 @@
 
 **📊 Analytics**
 `Excel` `Data Preprocessing` `Data Analysis` `Statistical Modelling` `Predictive Modeling` `Machine Learning` `Deep Learning`
+**⚙️ Data Engineering**
+`Microsoft Fabric` `Databricks` `Data Engineering & Transformation` `Data Warehousing & Querying` `Data Ingestion` `PySpark`
 
 **📈 Visualization Tools**
 `Power BI`  &nbsp;|&nbsp;`Tableau` 
-
-**⚙️ Data Engineering**
-`Microsoft Fabric` `Databricks` `Data Engineering & Transformation` `Data Warehousing & Querying` `Data Ingestion` `PySpark`
 
 **☁️ Cloud Computing**
 `AWS` `GCP`
@@ -41,6 +40,7 @@
 ### 🏦 Credit Risk Modelling
 **[GitHub](https://github.com/ganji-rajesh/credit_risk_modelling)** &nbsp;|&nbsp; *(Streamlit / HuggingFace — add links if available)*
 > A machine learning project to predict credit risk for loan applicants using historical financial data.
+> 
 **Skills used:** `Python` `Pandas` `Scikit-Learn` `Machine Learning` 
 
 ---
@@ -94,9 +94,6 @@
 
 ---
 
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganji-rajesh&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganji-rajesh&layout=compact&theme=default&hide_border=true)
 
 </div>
