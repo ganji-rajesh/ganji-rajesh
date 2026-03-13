@@ -24,6 +24,7 @@
 
 **📊 Analytics**
 `Excel` `Data Preprocessing` `Data Analysis` `Statistical Modelling` `Predictive Modeling` `Machine Learning` `Deep Learning`
+
 **⚙️ Data Engineering**
 `Microsoft Fabric` `Databricks` `Data Engineering & Transformation` `Data Warehousing & Querying` `Data Ingestion` `PySpark`
 
