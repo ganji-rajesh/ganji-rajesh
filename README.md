@@ -8,7 +8,8 @@
 
 ## Hi, I'm Ganji Rajesh 👋
 
-📍 Hyderabad, India &nbsp;|&nbsp; 💻 Data Scientist & Data Analyst &nbsp;|&nbsp;  [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/ganjirajesh/))
+📍 Hyderabad, India &nbsp;|&nbsp; 💻 Data Scientist & Data Analyst &nbsp;|&nbsp; <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/13799d00-2fc7-4be0-9ac5-c8a5f417b19b" />
+ [![LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/ganjirajesh/))
 
 A maths nerd turned Data Analyst — I live and breathe data. Turning raw numbers into
 meaningful insights is what gets me out of bed every morning.
@@ -52,7 +53,7 @@ you'll find me with a camera in hand, capturing emotions and untold stories in s
 ## 🗂️ Projects
 
 ### 🏦 Credit Risk Modelling
-**[GitHub](https://github.com/ganji-rajesh/credit_risk_modelling)** &nbsp;|&nbsp; **[Streamlit](https://ganjirajesh-creditriskmodelling.streamlit.app/)
+**[GitHub](https://github.com/ganji-rajesh/credit_risk_modelling)** &nbsp;|&nbsp; **[Streamlit](https://ganjirajesh-creditriskmodelling.streamlit.app/)**
 > A machine learning project to predict credit risk for loan applicants using historical financial data.
 > 
 **Skills used:** `Python` `Pandas` `Scikit-Learn` `Machine Learning` 
@@ -60,7 +61,7 @@ you'll find me with a camera in hand, capturing emotions and untold stories in s
 ---
 
 ### ⚡ TGNPDCL Domestic Consumption Prediction
-**[GitHub](https://github.com/ganji-rajesh/tgnpdcl_domestic_consumption_prediction)**  &nbsp;|&nbsp; **[Streamlit](https://ganjirajesh-creditriskmodelling.streamlit.app/)
+**[GitHub](https://github.com/ganji-rajesh/tgnpdcl_domestic_consumption_prediction)** &nbsp;|&nbsp; **[Streamlit](https://tsnpdcl.streamlit.app/)**
 > Predicts domestic electricity consumption patterns for TGNPDCL using time-series forecasting and ML models.
 > 
 **Skills used:** `Python` `Pandas` `Machine Learning` `Time Series`
@@ -68,29 +69,33 @@ you'll find me with a camera in hand, capturing emotions and untold stories in s
 ---
 
 ### 📄 RHP Tool — IPO Document Analyzer
-**[GitHub](https://github.com/ganji-rajesh/rhptool)**
+**[GitHub](https://github.com/ganji-rajesh/rhptool)** &nbsp;|&nbsp; **[Streamlit](https://ganjirajesh-rhptool.streamlit.app/)**
 > Extracts and summarizes various sections of RHP/DRHP documents (IPO filings) using Google Gemini AI.
+> 
 **Skills used:** `Python` `Google Gemini AI` `LLM` `NLP` `PDF Parsing`
 
 ---
 
 ### 📊 Management Discussion Summary
-**[GitHub](https://github.com/ganji-rajesh/ManagementDiscussionSummary)**
+**[GitHub](https://github.com/ganji-rajesh/ManagementDiscussionSummary)** &nbsp;|&nbsp; **[Streamlit](https://managementdiscussionsummary-ganjirajesh.streamlit.app/)**
 > Extracts and summarizes Management Discussion & Analysis sections from annual reports using Google Gemini AI.
+> 
 **Skills used:** `Python` `Google Gemini AI` `LLM` `NLP` `PDF parsing`
 
 ---
 
 ### 🏥 HCA Revenue Guardian
-**[GitHub](https://github.com/ganji-rajesh/hca-revenue-guardian)**
+**[GitHub](https://github.com/ganji-rajesh/hca-revenue-guardian)** &nbsp;|&nbsp; **[Streamlit](https://hca-revenue-guardian.streamlit.app/)**
 > A Python-based revenue cycle intelligence tool for healthcare organizations to detect anomalies and protect revenue.
+> 
 **Skills used:** `Python` `Machine Learning` `Data Analysis` `Streamlit`
 
 ---
 
 ### 🔬 Chemical Space Explorer
-**[GitHub](https://github.com/ganji-rajesh/chemical-space-explorer)**
+**[GitHub](https://github.com/ganji-rajesh/chemical-space-explorer)** &nbsp;|&nbsp; **[Streamlit](https://chemical-space-explorer.streamlit.app/)**
 > Explores chemical compound spaces using cheminformatics techniques for drug discovery applications.
+> 
 **Skills used:** `Python` `Cheminformatics` `RDKit` `Data Visualization`
 
 ---
@@ -98,6 +103,7 @@ you'll find me with a camera in hand, capturing emotions and untold stories in s
 ### 🎬 YouTube Summary
 **[GitHub](https://github.com/ganji-rajesh/youtube_summary)**
 > Generates summaries and transcripts from YouTube videos using AI.
+> 
 **Skills used:** `Python` `LLM` `NLP` `YouTube API`
 
 ---
@@ -105,6 +111,7 @@ you'll find me with a camera in hand, capturing emotions and untold stories in s
 ### 🤖 Movie Booking Chatbot
 **[GitHub](https://github.com/ganji-rajesh/chatbot)**
 > A rule-based chatbot built to handle movie booking conversations.
+> 
 **Skills used:** `Python` `NLP` `Chatbot Design`
 
 ---
