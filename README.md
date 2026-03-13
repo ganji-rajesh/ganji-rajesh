@@ -8,7 +8,20 @@
 
 ## Hi, I'm Ganji Rajesh 👋
 
-📍 Hyderabad, India &nbsp;|&nbsp; 💻 Data Scientist & ML Engineer &nbsp;|&nbsp; 🔭 21 Public Repos
+📍 Hyderabad, India &nbsp;|&nbsp; 💻 Data Scientist & Data Analyst &nbsp;|&nbsp;  [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/ganjirajesh/))
+
+A maths nerd turned Data Analyst — I live and breathe data. Turning raw numbers into
+meaningful insights is what gets me out of bed every morning.
+
+I'm currently deep-diving into **AI at the intersection of Biology/Agriculture** 🧬, exploring how
+machine learning can unlock new frontiers in the life sciences. I'm actively open to
+opportunities at the **AI × Biology** space.
+
+Beyond work, I love building projects and tools that scratch my own itch — if it makes
+my life even a little better, it's worth building. When I step away from the screen,
+you'll find me with a camera in hand, capturing emotions and untold stories in still frames 📷.
+
+
 
 </div>
 
@@ -39,7 +52,7 @@
 ## 🗂️ Projects
 
 ### 🏦 Credit Risk Modelling
-**[GitHub](https://github.com/ganji-rajesh/credit_risk_modelling)** &nbsp;|&nbsp; *(Streamlit / HuggingFace — add links if available)*
+**[GitHub](https://github.com/ganji-rajesh/credit_risk_modelling)** &nbsp;|&nbsp; **[Streamlit](https://ganjirajesh-creditriskmodelling.streamlit.app/)
 > A machine learning project to predict credit risk for loan applicants using historical financial data.
 > 
 **Skills used:** `Python` `Pandas` `Scikit-Learn` `Machine Learning` 
@@ -47,8 +60,9 @@
 ---
 
 ### ⚡ TGNPDCL Domestic Consumption Prediction
-**[GitHub](https://github.com/ganji-rajesh/tgnpdcl_domestic_consumption_prediction)**
+**[GitHub](https://github.com/ganji-rajesh/tgnpdcl_domestic_consumption_prediction)**  &nbsp;|&nbsp; **[Streamlit](https://ganjirajesh-creditriskmodelling.streamlit.app/)
 > Predicts domestic electricity consumption patterns for TGNPDCL using time-series forecasting and ML models.
+> 
 **Skills used:** `Python` `Pandas` `Machine Learning` `Time Series`
 
 ---
