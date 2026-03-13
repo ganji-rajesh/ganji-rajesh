@@ -8,8 +8,8 @@
 
 ## Hi, I'm Ganji Rajesh 👋
 
-📍 Hyderabad, India &nbsp;|&nbsp; 💻 Data Scientist & Data Analyst &nbsp;|&nbsp; <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/13799d00-2fc7-4be0-9ac5-c8a5f417b19b" />
- [LinkedIn](https://www.linkedin.com/in/ganjirajesh/)
+📍 Hyderabad, India &nbsp;|&nbsp; 💻 Data Scientist & Data Analyst &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganjirajesh/)
+
 
 A maths nerd turned Data Analyst — I live and breathe data. Turning raw numbers into
 meaningful insights is what gets me out of bed every morning.
